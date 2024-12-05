@@ -1,17 +1,17 @@
 
 
-<u>Use Case 1:</u>
+Use Case 1:
+---
 
 **Use Case Name:** User Log-in **ID:** UC-1 **Priority:** Medium
----
+
 
 **Actor:** Registered User, User Database
----
 
 **Description:** This use case describes the process by which a registered user logs into the EduStock Exchange Platform to access their account and start trading.
----
+
 **Trigger:** The user visits the platform and selects the "Log In" option from the homepage.
----
+
 **Type:**   
 * [x] External
 * [ ] Temporal
