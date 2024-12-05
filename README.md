@@ -7,8 +7,8 @@
 |**Description:** This use case describes the process by which a registered user logs into the EduStock Exchange Platform to access their account and start trading.|
 |**Trigger:** The user visits the platform and selects the "Log In" option from the homepage.|
 |**Type:**|    
-|* [x] External|
-|* [ ] Temporal|
+* [x] External|
+* [ ] Temporal|
 |**Preconditions:**|
 |* The user must already be registered on the platform with valid credentials (username/email and password).|
 |* The platform is operational and available. |
