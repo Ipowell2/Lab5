@@ -1,7 +1,7 @@
 
 
 <u>Use Case 1:</u>
-| Use Case Name: User Log-in | ID: UC-1 | Priority: Medium |
+| Use Case Name: User Log-in ID: UC-1 Priority: Medium |
 |----------------------------------------------------------|
 |**Actor:** Registered User, User Database|
 |**Description:** This use case describes the process by which a registered user logs into the EduStock Exchange Platform to access their account and start trading.|
