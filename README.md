@@ -4,7 +4,7 @@ Use Case 1:
 ---
 
 **Use Case Name:** User Log-in **ID:** UC-1 **Priority:** Medium
-                    ---
+                
 
 **Actor:** Registered User, User Database
 
