@@ -1,6 +1,7 @@
 
 
 <u>Use Case 1:</u>
+
 **Use Case Name:** User Log-in **ID:** UC-1 **Priority:** 
 
 **Actor:** Registered User, User Database
